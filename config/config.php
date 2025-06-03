@@ -2,8 +2,8 @@
 return [
     'db' => [
         'host' => 'localhost',
-        'name' => 'tt',
-        'user' => 'root',
+        'name' => '',
+        'user' => '',
         'pass' => '',
         'charset' => 'utf8mb4'
     ],
